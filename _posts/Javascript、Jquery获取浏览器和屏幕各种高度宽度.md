@@ -2,7 +2,7 @@
 layout:     post
 title:      
 
-subtitle:   更改 zsh 配置文件，在终端使用sublime、vscode、atom快速打开文件或目录
+subtitle:   Javascript、Jquery获取浏览器和屏幕各种高度宽度
 date:       2017-03-17
 author:     BY
 header-img: img/post-bg-debug.png
@@ -99,7 +99,7 @@ alert($(document.body).width());                //浏览器当前窗口文档bod
 
 alert($(document.body).outerWidth(true));  //浏览器当前窗口文档body的总宽度 包括border padding margin
 	
-#### 代码如下：
+#### 示例代码：
 ```html
 <!DOCTYPE html>
 <html>
