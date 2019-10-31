@@ -17,7 +17,7 @@ tags:
 
 # 正文
 #### 图解如下
-![](http://chuantu.xyz/t6/702/1572425619x2073513213.png)
+![](https://thumbnail0.baidupcs.com/thumbnail/6ed98c9023570cff29e2ed78f6fb9312?fid=3198699892-250528-190949000193907&time=1572487200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-qGTiX3KiLOOsJm0A9U92uguoYHw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=119610340541850792&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
 	
 #### Javascript:
 
